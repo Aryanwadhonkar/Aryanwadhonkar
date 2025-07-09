@@ -34,12 +34,12 @@ Always curious to learn something new and improve my skills through real-world p
 
 ## 📫 Let's Connect
 
-- 📷 [Instagram](https://instagram.com/your_username)
-- ▶️ [YouTube](https://youtube.com/@your_channel)
+- 📷 [Instagram](https://instagram.com/aryan.wadhonkar)
+- ▶️ [YouTube](https://youtube.com/@Aryanwadhonkar)
 <!--
 - 🌐 [Portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-wadhonkar)
+- 📧 Email: your.aryanwadhonkar27.com
 -->
 
 Feel free to check out my projects and reach out for collaboration or just to say hi!
