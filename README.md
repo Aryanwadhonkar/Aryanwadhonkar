@@ -16,7 +16,7 @@ Always curious to learn something new and improve my skills through real-world p
 
 ## 🔧 Technologies & Tools
 
-- 💻 Python | JavaScript | HTML/CSS
+- 💻 Python  | Java |  JavaScript |  HTML/CSS
 - ⚙️ Git & GitHub
 - 🛠️ VS Code | Linux | MongoDB
 - 🌐 Web Development | Backend APIs
