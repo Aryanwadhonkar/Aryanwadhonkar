@@ -26,7 +26,7 @@ Always curious to learn something new and improve my skills through real-world p
 
 ## 🚀 What I’m Currently Working On
 
-- Building fun and functional **Telegram bots**
+- Building fun and functional **Bots**
 - Exploring backend development and database integration
 - Contributing to open-source projects
 
