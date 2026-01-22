@@ -54,7 +54,7 @@ I am a passionate developer and lifelong learner, constantly exploring the vast 
 **Automation & DevOps:**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-%2300ADD8.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+  
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
 ![Koyeb](https://img.shields.io/badge/Koyeb-%2300D1C1.svg?style=for-the-badge&logo=koyeb&logoColor=white)  
 ![VPS Hosting](https://img.shields.io/badge/VPS-%23FF6F61.svg?style=for-the-badge)  
