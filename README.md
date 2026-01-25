@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Aryan Raju Wadhonkar
+# 👋 Hello! I'm Aryan Wadhonkar
 
 🎓 **B.Sc. in Information Technology**  
 **Dr. D. Y. Patil Institute of Technology, Pimpri, Pune**  
@@ -28,8 +28,6 @@ I am a passionate developer and lifelong learner, constantly exploring the vast 
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aryan.wadhonkar/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aryanwadhonkar) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanwadhonkar27@gmail.com)
 
 ---
 
@@ -49,7 +47,6 @@ I am a passionate developer and lifelong learner, constantly exploring the vast 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MS Excel](https://img.shields.io/badge/MS%20Excel-%231D6F42.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 **Automation & DevOps:**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
