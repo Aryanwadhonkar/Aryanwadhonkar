@@ -13,14 +13,13 @@ I am a passionate developer and lifelong learner, constantly exploring the vast 
 ---
 
 ### 🤖 Interests
-- Bots
 - Automation Projects
 - Open Source Contributions
 
 ---
 
 ## 🚀 Currently Working On
-- Developing intelligent, scalable **Telegram Bots**
+- Developing intelligent, scalable **Bots**
 - Deepening my knowledge in **backend architecture** and **database design**
 - Actively engaging with and contributing to **open-source communities**
 
